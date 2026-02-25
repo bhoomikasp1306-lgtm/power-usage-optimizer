@@ -1,0 +1,5 @@
+{
+  "name": "Energy Intelligence Engine",
+  "description": "Autonomous AI-powered energy dashboard for real-time usage forecasting, bill computation, and carbon footprint analysis.",
+  "requestFramePermissions": []
+}
